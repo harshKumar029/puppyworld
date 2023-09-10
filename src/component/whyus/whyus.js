@@ -17,7 +17,7 @@ const whyus = () => {
             </ul>
         </div>
         <div className='img_pet'>
-            <img className='pet_img' src='assets/img/golden.avif' alt='pet' />
+            <img className='pet_img' src='./assets/img/golden.avif' alt='pet' />
         </div>
     </div>
 
