@@ -1,0 +1,35 @@
+.whyus_tital{
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 1.2rem;
+}
+.whyus_content{
+    display: flex;
+    justify-content: space-around;
+}
+.whyus_content .bullet_content{
+  width: 50%;
+}
+.whyus_content .img_pet{
+    width: 35%;
+}
+
+.whyus_content div ul li{
+    padding: .5rem 0rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.whyus_content div ul{
+  margin-top: 20%;
+  margin-left: 10%;
+}
+.pet_img{
+    width: 90%;
+    float: right;
+}
+@media only screen and (max-width: 550px){
+    .whyus_content{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}

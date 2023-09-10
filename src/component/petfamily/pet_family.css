@@ -1,0 +1,31 @@
+.pet_family_c{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-top: 4rem;
+}
+.img_family{
+    width: 40%;
+}
+.family_img{
+    width: 100%;
+}
+.family_content{
+    width: 30%;
+   margin-left: 11%;
+   margin-top: 7%;
+}
+.family_content h5{
+    color: red;
+}
+@media only screen and (max-width: 550px){
+    .pet_family_c{
+        flex-direction: column;
+        align-items: center;
+    }
+    .family_content{
+       margin-left: 0%;
+       margin-top: 7%;
+       text-align: center;
+    }
+}

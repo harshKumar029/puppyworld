@@ -1,0 +1,42 @@
+.train{
+    margin-top: 4rem;
+}
+.train .train_tital{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.train .train_tital h1{
+  font-size: 2.3rem;
+  margin: 0px;
+  margin-bottom: 1rem;
+}
+.train .train_tital h4{
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+    font-weight: 400;
+    margin: 0px;
+}
+.pet_videos {
+   display: flex;
+   justify-content: space-evenly;
+}
+.pet_videos video{
+    width: 12%;
+    height: auto;
+    border: 1.3rem solid #ffe5e5;
+}
+.pet_videos video{
+    padding: .9rem;
+}
+@media only screen and (max-width: 550px){
+    .pet_videos{
+        flex-direction: column;
+        align-items: center;
+    }
+    .pet_videos video{
+        width: 60%;
+        height: auto;
+        margin-bottom: 10px;
+        border: 1.3rem solid #ffe5e5;
+    }
+}

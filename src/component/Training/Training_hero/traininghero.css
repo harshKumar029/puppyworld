@@ -1,0 +1,58 @@
+.bg_img{
+    background-image: url('/public/assets/img/dogtraning.png'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 15rem;
+    color: white;
+    /* height: 80vh; */
+    align-items: center;
+    padding-bottom: 15%;
+
+}
+.traininghero_content{
+    text-align: center;
+}
+.traininghero_content h1{
+    margin: 0px;
+    font-size: 3rem;
+    font-weight: 700;
+    /* font-size: ; */
+}
+.traininghero_content span{
+ color: #e56998;
+}
+.traininghero_content h4{
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+.bg_img .hero_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.bg_img .hero_button button{
+    margin-right: 3rem;
+    background-color: #e7196b;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    height: 48px;
+    line-height: 26px;
+    padding: 5px 20px;
+    color: #ffffff;
+    cursor: pointer;
+}
+.bg_img .hero_button h4{
+margin-top: 12px;
+cursor: pointer;
+}
+.bg_img .hero_button h4 span{
+    position: relative;
+    font-size: 1.8rem;
+    top: 4px;
+    left: 3px;
+
+    align-items: center;
+}

@@ -1,0 +1,43 @@
+.petcare{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+}
+.petcare h2{
+    margin-top: 25%;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.petcare p{
+    font-weight: 400;
+    letter-spacing: .4px;
+}
+.petcare img{
+    width: 70%;
+    border: 20px solid #ffe5e5;
+    
+}
+.petcare div button{
+    margin-top: 3rem;
+  
+    background-color: #e7196b;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    height: 48px;
+    line-height: 26px;
+    padding: 5px 20px;
+    color: #ffffff;
+}
+@media only screen and (max-width: 550px){
+    .petcare{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .petcare{
+        text-align: center;
+    }
+}

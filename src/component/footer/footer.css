@@ -1,0 +1,52 @@
+.footer{
+    margin-top: 4rem;
+    color: #b5b3b3;
+    background-color: #000000;
+
+}
+.footer_content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer_content div h3{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.2rem;
+    /* letter-spacing: .8px; */
+}
+.footer_content div ul li{
+    list-style: none;
+    font-weight: 300;
+    font-size: 1.1rem;
+    /* letter-spacing: .8px; */
+}
+.footer_friend{
+    margin-left: 3.1rem;
+}
+.footer_friend h4{
+    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 1.4rem;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+}
+.footer_friend div .icon{
+  margin-right: .7rem;
+  font-size: 22px;
+  margin-bottom: 1rem;
+}
+.coppyright{
+    text-align: center;
+}
+.coppyright p{
+    margin: 0px;
+    padding-top: 1rem;
+    border-top: 1px solid rgb(255, 255, 255);
+    padding-bottom: 1rem;
+}
+.footer-logo {
+    width: 6.5rem;
+    padding: 1rem;
+  }
