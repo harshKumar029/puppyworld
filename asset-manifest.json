@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/puppyworld/static/css/main.9b8547f2.css",
-    "main.js": "/puppyworld/static/js/main.a2fe120b.js",
+    "main.css": "/puppyworld/static/css/main.a86b285f.css",
+    "main.js": "/puppyworld/static/js/main.a1e5337f.js",
     "static/js/787.046ac7de.chunk.js": "/puppyworld/static/js/787.046ac7de.chunk.js",
     "static/media/dogtraning.png": "/puppyworld/static/media/dogtraning.881b54db6c530ea5c2b9.png",
     "index.html": "/puppyworld/index.html",
-    "main.9b8547f2.css.map": "/puppyworld/static/css/main.9b8547f2.css.map",
-    "main.a2fe120b.js.map": "/puppyworld/static/js/main.a2fe120b.js.map",
+    "main.a86b285f.css.map": "/puppyworld/static/css/main.a86b285f.css.map",
+    "main.a1e5337f.js.map": "/puppyworld/static/js/main.a1e5337f.js.map",
     "787.046ac7de.chunk.js.map": "/puppyworld/static/js/787.046ac7de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b8547f2.css",
-    "static/js/main.a2fe120b.js"
+    "static/css/main.a86b285f.css",
+    "static/js/main.a1e5337f.js"
   ]
 }
