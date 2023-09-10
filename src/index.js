@@ -37,13 +37,14 @@ root.render(
         <Route path="product" element={<Product/>}></Route>
         <Route path="training" element={<>
           <Traininghero/>
-          <Train/>
+          
           <Card/>
           <Petcare/>
           <Faq/>
         
         </>}></Route>
       </Routes>
+      <Train/>
       <Contactus />
       <Footer />
 
