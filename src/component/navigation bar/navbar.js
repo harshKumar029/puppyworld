@@ -42,7 +42,7 @@ const Navbar = () => {
       <div className='nv_container'>
         <nav>
           <div className='nav-logo'>
-            <RouterLink className='link' to=""><img className='logo-img' src="./assets/img/logo.png" alt="icon" /></RouterLink>
+            <RouterLink className='link' to=""><img className='logo-img' src="/assets/img/logo.png" alt="icon" /></RouterLink>
             {/* <h5>Puppy World</h5> */}
           </div>
           <div className='menu-link'>
