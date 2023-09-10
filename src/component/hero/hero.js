@@ -6,7 +6,7 @@ const hero = () => {
     <>
     <div className='wrapper'>
      <video autoPlay loop muted plays-inline className='hero_video' >
-        <source src='assets/video/petvideo.mp4'/>
+        <source src='./assets/video/petvideo.mp4'/>
       </video>
       </div>
       <div className='hero-content'>
